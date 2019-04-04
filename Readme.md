@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/VirtualModeDemo/Default.aspx) (VB: [Default.aspx.vb](./VB/VirtualModeDemo/Default.aspx.vb))
+* [Default.aspx](./CS/VirtualModeDemo/Default.aspx) (VB: [Default.aspx](./VB/VirtualModeDemo/Default.aspx))
 * [Default.aspx.cs](./CS/VirtualModeDemo/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/VirtualModeDemo/Default.aspx.vb))
 <!-- default file list end -->
 # Populating ASPxTreeList from a database in virtual mode
